@@ -1,0 +1,3 @@
+[submodule "external/StreetComplete"]
+	path = external/StreetComplete
+	url = https://github.com/streetcomplete/StreetComplete.git
